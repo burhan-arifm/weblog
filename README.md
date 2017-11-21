@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# weblog
+Rails-based Weblog, sekaligus belajar menggunakan Travis CI
+>>>>>>> b3e55003b979cd851ccf306cd7ba31f29b75c375
